@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\hp\source\repos\тп1.2\тп1.2\source.cpp(4): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ТП1.2.vcxproj -> C:\Users\hp\source\repos\ТП1.2\Debug\ТП1.2.exe
